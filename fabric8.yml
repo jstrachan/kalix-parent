@@ -5,7 +5,7 @@ codeReview: false
 links:
   Backlog: "http://taiga.apps.kalix.com/project/admin-kalix-parent-2/backlog"
   Current: "http://172.30.157.31:80/kubernetes/pods?namespace=default"
-  Git: "git@github.com:jstrachan/kalix-parent.git"
+  Git: "https://github.com/jstrachan/kalix-parent.git"
   Job: "http://172.30.225.195:80/job/kalix-parent"
   Team: "http://taiga.apps.kalix.com/project/admin-kalix-parent-2/team"
 environments:
